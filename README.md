@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Paulo Giovani
 
-💻 Desenvolvedor e entusiasta de tecnologia, artes digitais e jogos.  
-👨🏻‍🏫 Professor do IFSP na cidade de Campos do Jordão.
-🎯 Atuo na criação de aplicações web, jogos digitais e soluções criativas que unem **programação**, **design** e **modelagem 3D**.  
+- 💻 Desenvolvedor e entusiasta de tecnologia, artes digitais e jogos.  
+- 👨🏻‍🏫 Professor do IFSP na cidade de Campos do Jordão.
+- 🎯 Atuo na criação de aplicações web, jogos digitais e soluções criativas que unem **programação**, **design** e **modelagem 3D**.  
 
 ---
 
 ## 🌐 Onde me encontrar
-- [📄 Currículo Lattes](http://lattes.cnpq.br/2831040847816293)
+- [Lattes](http://lattes.cnpq.br/2831040847816293)
 - [LinkedIn](www.linkedin.com/in/paulogiovani-ifspcjo)
 
 ---

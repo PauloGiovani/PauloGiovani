@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Paulo Giovani
+# 👋🏻 Olá, eu sou o Paulo Giovani
 
-- 💻 Desenvolvedor e entusiasta de tecnologia, artes digitais e jogos.  
+- 👨🏻‍💻 Desenvolvedor e entusiasta de tecnologia, artes digitais e jogos.  
 - 👨🏻‍🏫 Professor do IFSP na cidade de Campos do Jordão.
 - 🎯 Atuo na criação de aplicações web, jogos digitais e soluções criativas que unem **programação**, **design** e **modelagem 3D**.  
 
@@ -12,12 +12,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloGiovani&show_icons=true&theme=radical)
-
----
-
-## 🚀 Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -27,6 +22,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![Lua](https://img.shields.io/badge/Lua-5.4-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Banco de Dados
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
@@ -46,12 +42,18 @@
 
 ### Modelagem 3D e Animação
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk_Maya-1E8DCC?style=for-the-badge&logo=autodesk&logoColor=fff)
+![3ds Max](https://img.shields.io/badge/3ds_Max-0082D0?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=fff)
 
 ### Design & Edição
 ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=fff)
 ![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=fff)
 ![InDesign](https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=fff)
+
+---
+
+## 📊 Estatísticas do GitHub
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloGiovani&show_icons=true&theme=radical)
 
 ---
 

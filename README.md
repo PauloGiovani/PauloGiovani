@@ -8,7 +8,7 @@
 
 ## 🌐 Onde me encontrar
 - [Lattes](http://lattes.cnpq.br/2831040847816293)
-- [LinkedIn](www.linkedin.com/in/paulogiovani-ifspcjo)
+- [LinkedIn](https://www.linkedin.com/in/paulogiovani-ifspcjo/)
 
 ---
 
